@@ -13,6 +13,9 @@
   <a href="https://leetcode.com/u/varun21105">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  <a href="mailto:varunsoni21102005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -93,19 +96,6 @@ A daily log of Data Structures & Algorithms problems solved in Java — building
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varun5041&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun5041&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=varun5041&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🎯 Current Focus
 
 ```
@@ -130,6 +120,9 @@ Internship / Placement Ready
   </a>
   <a href="https://leetcode.com/u/varun21105">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="mailto:varunsoni21102005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
